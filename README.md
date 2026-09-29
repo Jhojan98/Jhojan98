@@ -16,6 +16,7 @@
 
 <br/><br/>
 
+<a href="https://jharagonr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1B33?style=for-the-badge&logo=vercel&logoColor=9CC5F0" alt="Portfolio" /></a>
 <a href="https://github.com/Jhojan98"><img src="https://img.shields.io/badge/GitHub-0B1B33?style=for-the-badge&logo=github&logoColor=9CC5F0" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/jhojan-aragon-58801029a/"><img src="https://img.shields.io/badge/LinkedIn-0B1B33?style=for-the-badge&logo=linkedin&logoColor=9CC5F0" alt="LinkedIn" /></a>
 <a href="mailto:jharagonr@gmail.com"><img src="https://img.shields.io/badge/Email-0B1B33?style=for-the-badge&logo=gmail&logoColor=9CC5F0" alt="Email" /></a>
@@ -66,6 +67,7 @@ jhojan:
 | **[ResurgeAgent](https://github.com/Jhojan98/ResurgeAgent)** | Multi-agent system for emergency and disaster response: turns scattered citizen reports into structured coordination of people, supplies and routes | `JavaScript · Multi-agent` |
 | **[SECOP II](https://github.com/Jhojan98/SecopII)** | Machine-learning pipeline over Colombian public-procurement data (SECOP II): extraction, feature engineering and model comparison to prioritize corruption-risk audits | `Python · scikit-learn · pandas` |
 | **[Ecoladrillos](https://github.com/Jhojan98/Ecoladrillos)** | Inventory and construction-process management for an eco-brick manufacturing company, built end to end with an MVC architecture | `Django · React` |
+| **[Portfolio](https://jharagonr.vercel.app)** | Personal portfolio: bilingual one-page site (ES/EN) with a space theme, light/dark mode and a project showcase | `Next.js · TypeScript · Tailwind` |
 
 <sub>↓ More in my repos — [api-rest-libros](https://github.com/Jhojan98/api-rest-libros) (REST API exercise), [Proyecto-Habitabilidad](https://github.com/Jhojan98/Proyecto-Habitabilidad) (habitability analysis, Python), [AnteProyectoMetodologia](https://github.com/Jhojan98/AnteProyectoMetodologia) and [PaperAutonomusCarRace](https://github.com/Jhojan98/PaperAutonomusCarRace) (research papers in LaTeX).</sub>
 
@@ -127,7 +129,7 @@ jhojan:
 
 <div align="center">
 
-**Let's build something** — [LinkedIn](https://www.linkedin.com/in/jhojan-aragon-58801029a/) · **jharagonr@gmail.com**
+**Let's build something** — [jharagonr.vercel.app](https://jharagonr.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jhojan-aragon-58801029a/) · **jharagonr@gmail.com**
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9CC5F0,50:1E4A8A,100:0B1B33" />
 
